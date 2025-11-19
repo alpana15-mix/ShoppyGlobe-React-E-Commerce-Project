@@ -49,13 +49,16 @@ src/ ├─ components/ ├─ pages/ ├─ redux/ ├─ hooks/ ├─ App.jsx
 ---
 
 ## ▶️ How to Run the Project
+
+npm run dev
 ---
 
 ## 📦 Final Submission
 
 As required:
 - Node modules removed  
-- GitHub repo link added below  
+- GitHub repo link added below
+- https://github.com/alpana15-mix/ShoppyGlobe-React-E-Commerce-Project.git
 
 ### 🔗 GitHub Repository Link  
 👉 https://github.com/alpana15-mix/ShoppyGlobe-React-E-Commerce-Project.git
